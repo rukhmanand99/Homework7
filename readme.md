@@ -1,5 +1,5 @@
+#Homework7
 ### QR Code
-![GitHub QR Code](/home/rukhmanand/Homeworks/Homework7/qr_codes/QRCode_20250401232603.png)
- https://drive.google.com/file/d/1ICxJZO6Cm2T_xli6oua4D_3ug7avwfvW/view?usp=drive_link
+Qrcode Image link - https://drive.google.com/file/d/1ICxJZO6Cm2T_xli6oua4D_3ug7avwfvW/view?usp=sharing
 ### Docker Log Screenshot
-![Docker Log](log.png)
+Docker Log Link - https://drive.google.com/file/d/1gzVxCAz-GLlqlyITXl91TfBoXGW9wmbx/view?usp=sharing
